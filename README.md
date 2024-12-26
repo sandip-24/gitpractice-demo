@@ -1,4 +1,4 @@
 # gitpractice-demo
 This is my first repo.
 <br>
-Author - Sandip
+Author - Sandip Makaju
